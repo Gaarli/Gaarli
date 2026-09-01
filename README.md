@@ -10,6 +10,7 @@ Sou apaixonado por arquitetura de software, infraestrutura e escalabilidade, sem
 * 👨‍🏫 Instrutor de SQL/Data Science no grupo DATA e Monitor acadêmico (Bolsa PUB).
 * ⚙️ Foco em Back-end e Clean Architecture.
 * ⚽ Fora da tela: Entusiasta de neurociência focada em aprendizado, futsal e filmes.
+* 🗣️ Inglês avançado e espanhol intermediário
 
 ### 🛠️ Tech Stack e Projetos
 * **Ecossistema Back-end:** Java, Go, Node.js, Python, SQL.

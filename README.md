@@ -26,3 +26,7 @@ Sou apaixonado por arquitetura de software, infraestrutura e escalabilidade, sem
 * **E-mail:** [gabriel.araujolima@usp.br](mailto:gabriel.araujolima@usp.br)
 
 > "O sucesso é a soma de pequenos esforços repetidos dia após dia."
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=radical" alt="Top Linguagens" />
+</div>

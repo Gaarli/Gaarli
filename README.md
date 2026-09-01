@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá! Eu sou o Gabriel de Araujo Lima 👋
 
-<!--
-**Gaarli/Gaarli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bacharel em Ciência da Computação @ USP (ICMC)** | **Full Stack Developer & AI Researcher**
 
-Here are some ideas to get you started:
+Sou apaixonado por arquitetura de software, infraestrutura e escalabilidade, sempre buscando aliar alta performance no código com produtividade e aprendizado contínuo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre Mim
+* 🎓 Graduando em Ciência da Computação no ICMC - USP (São Carlos).
+* 🔬 Pesquisador (Bolsista EMBRAPII) desenvolvendo IA para análise de risco geotécnico.
+* 👨‍🏫 Instrutor de SQL/Data Science no grupo DATA e Monitor acadêmico (Bolsa PUB).
+* ⚙️ Foco em Back-end e Clean Architecture.
+* ⚽ Fora da tela: Entusiasta de neurociência focada em aprendizado, futsal e filmes.
+
+### 🛠️ Tech Stack e Projetos
+* **Ecossistema Back-end:** Java, Go, Node.js, Python, SQL.
+* **Infraestrutura e DevOps:** Docker, Kubernetes.
+
+### 📫 Como me encontrar
+* **LinkedIn:** [Gabriel Araujo](https://www.linkedin.com/in/gabriel-araujo-49a683208/)
+* **E-mail:** [gabriel.araujolima@usp.br](mailto:gabriel.araujolima@usp.br)
+
+> Foco na simplicidade, tranquilidade e eficiência — tanto na arquitetura de software quanto na vida.

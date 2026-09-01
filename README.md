@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://i.pinimg.com/originals/3d/74/68/3d7468d1bb523674726ba6934a396566.gif" alt="Banner GIF" width="100%">
+</div>
+
+
 # Olá! Eu sou o Gabriel de Araujo Lima 👋
 
 **Bacharel em Ciência da Computação @ USP (ICMC)** | **Full Stack Developer & AI Researcher**

@@ -27,4 +27,6 @@ Sou apaixonado por arquitetura de software, infraestrutura e escalabilidade, sem
 
 > "O sucesso é a soma de pequenos esforços repetidos dia após dia."
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaarli&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=radical" alt="Top Linguagens" />
+</div>

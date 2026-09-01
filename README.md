@@ -2,29 +2,26 @@
   <img src="https://i.pinimg.com/originals/3d/74/68/3d7468d1bb523674726ba6934a396566.gif" alt="Banner GIF" width="50%">
 </div>
 
+# Hello! I'm Gabriel de Araujo Lima 👋
 
-# Olá! Eu sou o Gabriel de Araujo Lima 👋
+**Computer Science Student @ USP (University of Sao Paulo)** | **Full Stack Developer & AI Researcher**
 
-**Bacharel em Ciência da Computação @ USP (ICMC)** | **Full Stack Developer & AI Researcher**
+I am passionate about software architecture, infrastructure, and scalability, always seeking to combine high-performance code with productivity and continuous learning.
 
-Sou apaixonado por arquitetura de software, infraestrutura e escalabilidade, sempre buscando aliar alta performance no código com produtividade e aprendizado contínuo.
+### 👨‍💻 About Me
+* 🎓 Computer Science undergraduate at ICMC - USP (São Carlos).
+* 🔬 Undergraduate Researcher (EMBRAPII Scholar) developing AI for geotechnical risk analysis.
+* 👨‍🏫 SQL/Data Science Instructor at the DATA group and Teaching Assistant (PUB Scholar).
+* ⚙️ Focused on Back-end development and Clean Architecture.
+* ⚽ Off-screen: Neuroscience enthusiast focused on learning, futsal, and movies.
+* 🗣️ Advanced English and Intermediate Spanish.
 
-### 👨‍💻 Sobre Mim
-* 🎓 Graduando em Ciência da Computação no ICMC - USP (São Carlos).
-* 🔬 Pesquisador (Bolsista EMBRAPII) desenvolvendo IA para análise de risco geotécnico.
-* 👨‍🏫 Instrutor de SQL/Data Science no grupo DATA e Monitor acadêmico (Bolsa PUB).
-* ⚙️ Foco em Back-end e Clean Architecture.
-* ⚽ Fora da tela: Entusiasta de neurociência focada em aprendizado, futsal e filmes.
-* 🗣️ Inglês avançado e espanhol intermediário
+### 🛠️ Tech Stack & Projects
+* **Back-end Ecosystem:** Java, Go, Node.js, Python, SQL.
+* **Infrastructure & DevOps:** Docker, Kubernetes.
 
-### 🛠️ Tech Stack e Projetos
-* **Ecossistema Back-end:** Java, Go, Node.js, Python, SQL.
-* **Infraestrutura e DevOps:** Docker, Kubernetes.
-
-### 📫 Como me encontrar
+### 📫 Social Networks
 * **LinkedIn:** [Gabriel Araujo](https://www.linkedin.com/in/gabriel-araujo-49a683208/)
 * **E-mail:** [gabriel.araujolima@usp.br](mailto:gabriel.araujolima@usp.br)
 
-> "O sucesso é a soma de pequenos esforços repetidos dia após dia."
-
-![Top Linguagens](https://github-stats-extended.vercel.app/api/top-langs?username=Gaarli&layout=donut&theme=radical)
+> "Success is the sum of small efforts, repeated day in and day out."

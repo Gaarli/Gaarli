@@ -19,4 +19,4 @@ Sou apaixonado por arquitetura de software, infraestrutura e escalabilidade, sem
 * **LinkedIn:** [Gabriel Araujo](https://www.linkedin.com/in/gabriel-araujo-49a683208/)
 * **E-mail:** [gabriel.araujolima@usp.br](mailto:gabriel.araujolima@usp.br)
 
-> Foco na simplicidade, tranquilidade e eficiência — tanto na arquitetura de software quanto na vida.
+> "O sucesso é a soma de pequenos esforços repetidos dia após dia."

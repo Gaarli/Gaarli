@@ -9,7 +9,7 @@
 I am passionate about software architecture, infrastructure, and scalability, always seeking to combine high-performance code with productivity and continuous learning.
 
 ### 👨‍💻 About Me
-* 🎓 Computer Science undergraduate at ICMC - USP (São Carlos).
+* 🎓 Computer Science undergraduate at USP.
 * 🔬 Undergraduate Researcher (EMBRAPII Scholar) developing AI for geotechnical risk analysis.
 * 👨‍🏫 SQL/Data Science Instructor at the DATA group and Teaching Assistant (PUB Scholar).
 * ⚙️ Focused on Back-end development and Clean Architecture.
